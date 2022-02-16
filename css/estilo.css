@@ -193,7 +193,7 @@ header {
 
 .secao {
     float: left;
-    width: 33.333%;
+    width: 33%;
 }
 
 .container{
@@ -229,3 +229,4 @@ header {
 .barra-nav {
     margin: 0.4em 0;
 }
+
